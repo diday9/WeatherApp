@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    // API Information
+    <string name="apiKey">19c601fd7358bcae699ebcc2f6398518</string>
+
+    // Request Permission
+    <string name="rationale_location">This app needs access to your location to know where you are.</string>
+
+    // Temperature Units
+    <string name="celsius">metric</string>
+    <string name="celsiusChar">ºC</string>
+    <string name="fahrenheit">imperial</string>
+    <string name="fahrenChar">ºF</string>
+
+    // Humidity Unit
+    <string name="humidUnit">%</string>
+    <string name="rainUnit">mm</string>
+
+    // Weather Info
+    <string name="minTemp">MIN. TEMP</string>
+    <string name="maxTemp">MAX. TEMP</string>
+    <string name="rainText">RAIN</string>
+    <string name="snowText">SNOW</string>
+    <string name="humidText">HUMIDITY</string>
+</resources>
